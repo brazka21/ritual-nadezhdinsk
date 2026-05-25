@@ -1,1 +1,1 @@
-Это standalone-версия: логотипы встроены прямо в HTML. Можно открыть index.html отдельно, без папки assets.
+GitHub Pages version: upload index.html, CNAME and .nojekyll to repository root. Catalog images are embedded directly into index.html, so no assets folder is required.
